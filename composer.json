@@ -1,0 +1,20 @@
+{
+    "name": "asv1979/otus3",
+    "description": "teaching task",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Asv1979\\Otus3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexey Vasilyev",
+            "email": "asv2108@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
